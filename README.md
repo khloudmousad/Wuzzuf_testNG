@@ -1,6 +1,6 @@
 This project automates the registration, job search, and application process on the Wuzzuf job portal using TestNG. It covers the following key functionalities:
 
-User Registration:
+User Registration
 
 Navigates to Wuzzuf and initiates account creation.
 Enters registration data and verifies navigation through the onboarding steps: Career Interests, General Info, and Professional Info.
